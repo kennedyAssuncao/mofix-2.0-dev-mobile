@@ -1,0 +1,15 @@
+{
+  "name": "mofix-app-pwa",
+  "displayName": "mofix-app-pwa",
+  "expo": {
+    "name": "mofix-app-pwa",
+    "slug": "mofix-app-pwa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "br.com.mofix"
+    }
+  }
+}

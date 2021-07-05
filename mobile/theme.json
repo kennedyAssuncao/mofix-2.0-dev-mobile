@@ -1,0 +1,11 @@
+{
+    "colors":{
+        "default-green": "#63ca00",
+        "default-yellow": "#ffcd38",
+        "default-orange": "#ff6600",
+        "default-white": "#F2F3F4",
+        "default-gray": "#e4e3e3",
+        "default-border-gray": "#d3d3d3",
+        "default-red": "#ff0000"
+    }
+}
